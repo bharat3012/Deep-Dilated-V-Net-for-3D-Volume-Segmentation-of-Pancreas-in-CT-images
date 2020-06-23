@@ -28,6 +28,7 @@ B. Giddwani, H. Tekchandani and S. Verma, "Deep Dilated V-Net for 3D Volume Segm
 pp. 591-596, doi: 10.1109/SPIN48934.2020.9071339.
 ```
 
-## Link: ##  https://ieeexplore.ieee.org/abstract/document/9071339
+## Link: 
+https://ieeexplore.ieee.org/abstract/document/9071339
 
 
