@@ -5,7 +5,7 @@
 
 Pancreas segmentation is essential in the medical diagnosis of cancer, pancreatitis, and pancreatic surgeries. Computed tomography (CT) abdominal scans help in the detection of tumors, infections, and other injuries in the pancreas. The treatment of pancreatic tumors begins with surgery, followed by neoadjuvant therapy. However, it is challenging to detect boundaries, due to variable shape, small anatomical structures, and low contrast images of the pancreas in the abdominal CT scans. Recently, Convolutional Neural Networks (CNNs) based deep learning models show significant performance on medical imaging related tasks. However, most of the data available for the evaluation of diseases consists of 3D CT scan volumes. Hence, learning from volumetric data is essential in biomedical applications. V-Net achieves extraordinary performance in various medical datasets consists of 3D scan. In this paper, we have proposed a multi-rate Deep-Dilation Network (DDN) in V-Net for the segmentation of pancreas in CT-82 abdominal dataset. To overcome data-imbalance between bright and dark pixels, we propose a Weighted Fusion Loss (WFL) using Balanced Binary Cross-entropy (BBCE) loss and Smooth Dice Coefficient (SDC) loss. The proposed model attains a state-of-the-art performance for pancreas segmentation. The achieved dice score, sensitivity and precision are 83.31%, 87.70% and 97.07% respectively.
 
-# Please Cite:
+## Please Cite:
 
 1. BibTex
 
