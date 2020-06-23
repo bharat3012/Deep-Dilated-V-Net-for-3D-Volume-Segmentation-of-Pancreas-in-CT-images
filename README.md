@@ -23,9 +23,11 @@ Pancreas segmentation is essential in the medical diagnosis of cancer, pancreati
 2. Plain Text
 
 ```
-B. Giddwani, H. Tekchandani and S. Verma, "Deep Dilated V-Net for 3D Volume Segmentation of Pancreas in CT images," 2020 7th International Conference on Signal Processing and Integrated Networks (SPIN), Noida, India, 2020, pp. 591-596, doi: 10.1109/SPIN48934.2020.9071339.
+B. Giddwani, H. Tekchandani and S. Verma, "Deep Dilated V-Net for 3D Volume Segmentation of Pancreas in CT images," 
+2020 7th International Conference on Signal Processing and Integrated Networks (SPIN), Noida, India, 2020, 
+pp. 591-596, doi: 10.1109/SPIN48934.2020.9071339.
 ```
 
-## Link: https://ieeexplore.ieee.org/abstract/document/9071339
+## Link: ##  https://ieeexplore.ieee.org/abstract/document/9071339
 
 
